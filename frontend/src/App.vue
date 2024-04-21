@@ -45,6 +45,17 @@ import TheWelcome from './components/TheWelcome.vue'
   box-shadow: 2px 2px rgb(17, 17, 17);
 }
 
+.tv {
+  background-color: rgb(41, 41, 41);
+  height: 420px;
+  width: 780px;
+  padding: 8px;
+  margin: 5px;
+  border-radius: 2px;
+  box-shadow: 2px 2px rgb(17, 17, 17);
+}
+
+
 header {
   line-height: 1.5;
 }
